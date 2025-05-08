@@ -11,9 +11,9 @@ function App() {
 
       <div className='card'>
       
-      <h1>welcome to docker test project</h1>
+      <h1>welcomeg to dockegr hello projegct</h1>
       <p>
-        This is a simple test project to demonstrate the use of Docker with React and Vite.
+        This is a simple test my project to ggg demonstrate the use of Docker with React and Vite.
         <br />
         <a href='https://vitejs.dev' target='_blank'>
           <img src={viteLogo} className='logo' alt='Vite logo' />
